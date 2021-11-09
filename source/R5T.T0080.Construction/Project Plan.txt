@@ -1,0 +1,3 @@
+R5T.T0080.Construction - Construction project for IConfigurationSourceAction<TConfigurationSource> related types, including interfaces and attributes to mark configuration source action aggregations and aggregation increments..
+
+GOALS:
